@@ -1,0 +1,6 @@
+{
+  "name": "Crypto Token Screener",
+  "description": "On-chain fundamental screener for crypto assets with customizable valuation ratio limits and cloud sync capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

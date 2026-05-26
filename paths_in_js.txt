@@ -1,0 +1,4 @@
+"/edit"
+"/collaborate-access"
+"/"
+"/index.js"
